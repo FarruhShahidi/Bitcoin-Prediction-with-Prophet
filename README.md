@@ -1,6 +1,6 @@
 # Bitcoin-Prediction-with-Prophet
 
-This  project shows how to use Facebook's prophet to predict bitcoin price.
+This  project shows how to use Facebook's Prophet to predict bitcoin price.
 
 
 For  installation refer to https://facebook.github.io/prophet/
